@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://MEU/Resources/Tiles/floor_with_grass2.ng.png" type="Texture" id=1]
+
+
+[node name="Floor_Grass1" type="Sprite"]
+position = Vector2( -69.796, 42.3061 )
+texture = ExtResource( 1 )
